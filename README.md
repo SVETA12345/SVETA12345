@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/SVETA12345/SVETA12345/blob/main/Summery.png" height="400px"/>
+<img src="https://github.com/SVETA12345/SVETA12345/blob/main/Summery.png" height="500px"/>
 <!--
 **SVETA12345/SVETA12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
