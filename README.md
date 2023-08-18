@@ -9,7 +9,7 @@
 * <img src="https://github.com/SVETA12345/SVETA12345/blob/main/nodejs.svg" alt="nodejs"/>
 * <img src="https://github.com/SVETA12345/SVETA12345/blob/main/react.svg" alt="react"/>
 ## Мои контакты:
-* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/telegram.svg" width="22px" height="22px" alt="telegram"/>: <p display="flex">https://t.me/svetik348888</p>
+* <div display="flex" align-items="center"><img src="https://github.com/SVETA12345/SVETA12345/blob/main/telegram.svg" width="22px" height="22px" alt="telegram"/>: <p>https://t.me/svetik348888</p></div>
 ## Моя статистика:
 <img src="https://github.com/SVETA12345/SVETA12345/blob/main/Summery.png" height="500px" alt="Статистика"/>
 <!--
