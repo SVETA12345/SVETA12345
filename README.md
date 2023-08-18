@@ -8,9 +8,10 @@
 * <img src="https://github.com/SVETA12345/SVETA12345/blob/main/html-5.png" alt="html5"/>
 * <img src="https://github.com/SVETA12345/SVETA12345/blob/main/nodejs.svg" alt="nodejs"/>
 * <img src="https://github.com/SVETA12345/SVETA12345/blob/main/react.svg" alt="react"/>
-* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/5968242.png" width="64px" height="64px" alt="react"/>
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/5968242.png" width="64px" height="64px" alt="css3"/>
 ## Мои контакты:
-* <div display="flex" align-items="center" flex-direction="row" width="200px"><img src="https://github.com/SVETA12345/SVETA12345/blob/main/telegram.svg" width="22px" margin-top="100px" height="22px" alt="telegram"/>: https://t.me/svetik348888</div>
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/telegram.svg" width="22px" height="22px" alt="telegram"/>: https://t.me/svetik348888
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/icons8-email-48.png" width="22px" height="22px" alt="email"/>: smartianova8@mail.ru
 ## Моя статистика:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVETA12345" width="500px" height="200px" alt="react"/>
 <!--
