@@ -4,11 +4,11 @@
 * Хочу создавать сайты, которые будут полезны обществу ⚡
 * Хочу работать в IT компаниии 😄
 ## Мой стек:
-* JavaScript <img src="https://github.com/SVETA12345/SVETA12345/blob/main/javascript.svg" alt="js"/>
-* HTML5
-* CSS3
-* Node.js
-* React
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/javascript.svg" alt="js"/>
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/html-5.png" alt="html5"/>
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/css3.svg" alt="css3"/>
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/nodejs.svg" alt="nodejs"/>
+* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/react.svg" alt="react"/>
 ## Мои контакты:
 * Telegram: https://t.me/svetik348888
 ## Моя статистика:
