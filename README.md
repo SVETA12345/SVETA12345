@@ -12,7 +12,7 @@
 ## Мои контакты:
 * <div display="flex" align-items="center" flex-direction="row" width="200px"><img src="https://github.com/SVETA12345/SVETA12345/blob/main/telegram.svg" width="22px" margin-top="100px" height="22px" alt="telegram"/>: https://t.me/svetik348888</div>
 ## Моя статистика:
-<img src="https://github.com/SVETA12345/SVETA12345/blob/main/Summery.png" height="500px" alt="Статистика"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SVETA12345e&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **SVETA12345/SVETA12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
