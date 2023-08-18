@@ -9,6 +9,8 @@
 * CSS3
 * Node.js
 * React
+## Мои контакты:
+* Telegram: https://t.me/svetik348888
 ## Моя статистика:
 <img src="https://github.com/SVETA12345/SVETA12345/blob/main/Summery.png" height="500px" alt="Статистика"/>
 <!--
