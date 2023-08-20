@@ -4,7 +4,7 @@
 * Хочу создавать сайты, которые будут полезны обществу ⚡
 * Хочу работать в IT компаниии 😄
 ## Мой стек:
-* <img src="https://github.com/SVETA12345/SVETA12345/blob/main/javascript.svg" alt="js"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/html-5.png" alt="html5"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/nodejs.svg" alt="nodejs"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/react.svg" alt="react"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/5968242.png" width="64px" height="64px" alt="css3"/>
+<img src="https://github.com/SVETA12345/SVETA12345/blob/main/javascript.svg" alt="js"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/html-5.png" alt="html5"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/nodejs.svg" alt="nodejs"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/react.svg" alt="react"/> <img src="https://github.com/SVETA12345/SVETA12345/blob/main/5968242.png" width="64px" height="64px" alt="css3"/>
 ## Мои контакты:
 <img src="https://github.com/SVETA12345/SVETA12345/blob/main/telegram.svg" width="22px" height="22px" alt="telegram"/>: https://t.me/svetik348888  
 <img src="https://github.com/SVETA12345/SVETA12345/blob/main/icons8-email-48.png" width="22px" height="22px" alt="email"/>: smartianova8@mail.ru
